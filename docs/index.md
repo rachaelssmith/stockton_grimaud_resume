@@ -23,8 +23,9 @@ BS, Data Science - Minor in Economics
 
 ### Data Analyst Intern
 
-`Nov 2020 - Present`
+
 __Simplicity Collection Software__, Idaho Falls, ID
+`Nov 2020 - Present`
 
 - Analyzed and wrangled 3 years of sales data to create sales metrics and automated dashboard
 - Constructed report on payment processors used in transactions through SQL queries
@@ -32,9 +33,8 @@ __Simplicity Collection Software__, Idaho Falls, ID
 - Created metric predicting probability of customers churning through machine learning
 
 ### Online Data Specialist
-
-`Feb 2020 – Present`
 __Brigham Young University-Idaho__, Rexburg, ID
+`Feb 2020 – Present` 
 
 - Collected and analyzed key metrics of online community for instructors teaching for BYU-Idaho and BYU Pathway
 - Consulted with management and presented results using Excel and R on key metrics and correlation to instructor performance
@@ -46,45 +46,26 @@ __Research and Business Development Center Analytics - Westmark Credit Union__
 `Sep 2020 – Present`
 
 Lead team and coordinated efforts in creating project scope and objectives
-- Created metric for likelihood of pre-approved customer accepting credit card offer using
-machine learning
+- Created metric for likelihood of pre-approved customer accepting credit card offer using machine learning
 - Wrangled and cleaned over 800,000 rows data for the use in visualization and analysis
 - Consulted with faculty at BYU-Idaho to navigate gaining insight from transaction data
 - Presented visualizations of customer account activity to Westmark Credit Union management
 
-__Good2Go__, Consultant `September 2027 - April 2028`
+### Data Science Lab Tutor / Teachers Assistant
+__Math & Tutoring Department at Brigham Young University-Idaho__, Rexburg, ID 
+`Sep 2020 – Dec 2020`
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Aided students through data visualization and statistical testing in one-on-one and group settings
+- Led group discussions and carried out plans from the instructor for one of the core data science
+classes (Data Wrangling and Visualization)
 
 
-## Service and Work History
+### Project Manager/Student Data Analyst
+__Data Science Society | Brigham Young University-Idaho__, Rexburg, ID
+ `Jan 2020 – Dec 2020`
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+- Led group of students to create dataset for Idaho farmers by web scraping historical wheat prices
+- Implemented updates to python code for a gantry crane used in loading products for distribution
 
 <!-- ### Footer
 
