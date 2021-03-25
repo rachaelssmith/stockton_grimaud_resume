@@ -24,7 +24,7 @@ BS, Data Science - Minor in Economics
 ### Data Analyst Intern
 
 `Nov 2020 - Present`
-__Simplicity Collection SOftware__, Idaho Falls, ID
+__Simplicity Collection Software__, Idaho Falls, ID
 
 - Analyzed and wrangled 3 years of sales data to create sales metrics and automated dashboard
 - Constructed report on payment processors used in transactions through SQL queries
@@ -33,12 +33,13 @@ __Simplicity Collection SOftware__, Idaho Falls, ID
 
 ### Online Data Specialist
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`Feb 2020 – Present`
+__Brigham Young University-Idaho__, Rexburg, ID
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Collected and analyzed key metrics of online community for instructors teaching for BYU-Idaho and BYU Pathway
+- Consulted with management and presented results using Excel and R on key metrics and correlation to instructor performance
+- Updated dashboards and performed ad hoc projects
+
 
 `September 2027 - April 2028`
 __Good2Go__, Consultant
