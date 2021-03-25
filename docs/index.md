@@ -7,7 +7,7 @@ title: Stockton Grimaud
 <div id="webaddress">
 <a href="stoctkong97@gmail.com">stoctkong97@gmail.com</a>
 | <a href="https://www.linkedin.com/in/stocktong/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://github.com/Sgrimaud">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
