@@ -67,6 +67,7 @@ __Data Science Society | Brigham Young University-Idaho__, Rexburg, ID
 - Led group of students to create dataset for Idaho farmers by web scraping historical wheat prices
 - Implemented updates to python code for a gantry crane used in loading products for distribution
 
+
 <!-- ### Footer
 
 Last updated: May 2013 -->
