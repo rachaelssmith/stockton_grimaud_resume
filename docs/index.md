@@ -21,16 +21,17 @@ BS, Data Science - Minor in Economics
 
 ## Projects and Experience
 
-### Internships
+### Data Analyst Intern
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`Nov 2020 - Present`
+__Simplicity Collection SOftware__, Idaho Falls, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Analyzed and wrangled 3 years of sales data to create sales metrics and automated dashboard
+- Constructed report on payment processors used in transactions through SQL queries
+- Assisted in the upload of data to new platform by wrangling data through python script
+- Created metric predicting probability of customers churning through machine learning
 
-### Data Science Lead
+### Online Data Specialist
 
 `April 2027 - June 2027`
 __Westmark Credit Union__, Consultant
