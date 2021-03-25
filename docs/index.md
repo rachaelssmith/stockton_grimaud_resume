@@ -14,8 +14,7 @@ title: Stockton Grimaud
 
 ## Education
 
-`Expected 2017 - 2021`
-__Brigham Young University - Idaho__, Rexburg, ID
+__Brigham Young University - Idaho__, Rexburg, ID `2017 - 2021`
 
 BS, Data Science - Minor in Economics
 
@@ -42,8 +41,7 @@ __Brigham Young University-Idaho__, Rexburg, ID
 - Updated dashboards and performed ad hoc projects
 
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+__Good2Go__, Consultant `September 2027 - April 2028`
 
 - Built product ordering and supply predictive algorithms for chips and beverages categories
 - Established standardized SQL calls and connections for PowerBI dashboards
