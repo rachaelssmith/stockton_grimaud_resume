@@ -40,7 +40,8 @@ __Brigham Young University-Idaho__, Rexburg, ID
 - Consulted with management and presented results using Excel and R on key metrics and correlation to instructor performance
 - Updated dashboards and performed ad hoc projects
 
-### Technical Project Manager / Data Science Consultant `Sep 2020 – Present`
+### Technical Project Manager / Data Science Consultant 
+`Sep 2020 – Present`
 __Research and Business Development Center Analytics - Westmark Credit Union__
 Lead team and coordinated efforts in creating project scope and objectives
 - Created metric for likelihood of pre-approved customer accepting credit card offer using
