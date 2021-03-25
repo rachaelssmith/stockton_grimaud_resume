@@ -41,8 +41,10 @@ __Brigham Young University-Idaho__, Rexburg, ID
 - Updated dashboards and performed ad hoc projects
 
 ### Technical Project Manager / Data Science Consultant 
-`Sep 2020 – Present`
+
 __Research and Business Development Center Analytics - Westmark Credit Union__
+`Sep 2020 – Present`
+
 Lead team and coordinated efforts in creating project scope and objectives
 - Created metric for likelihood of pre-approved customer accepting credit card offer using
 machine learning
