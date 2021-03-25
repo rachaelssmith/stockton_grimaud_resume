@@ -16,9 +16,10 @@ title: Stockton Grimaud
 
 `Expected 2017 - 2021`
 __Brigham Young University - Idaho__, Rexburg, ID
+BS, Data Science - Minor in Economics
 
 
-## Related Experience
+## Projects and Experience
 
 ### Internships
 
