@@ -6,7 +6,6 @@ title: Stockton Grimaud
 
 <div id="webaddress">
 <a href="stoctkong97@gmail.com">stoctkong97@gmail.com</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/stocktong/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
